@@ -8,14 +8,21 @@ header{
     justify-content: center;
 }
 
+
 .header_nav{
     justify-content: space-around;
     padding: 30px;
     margin-top: 10px;
     margin-left: 390px ;
     margin-right: 390px;
+    color: grey;
+}
+
+.header_nav:hover{
+    color: #E3C37A;
 }
 
 #num{
     padding: 24px;
+    color: #E3C37A;
 }
