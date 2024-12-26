@@ -1,4 +1,21 @@
-html,body{
-    margin: 0;
-    padding: 0;
+#lir{
+    padding: 24px;
+    font-size: 9px 23px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+.header_nav{
+    justify-content: space-around;
+    padding: 30px;
+    margin-top: 10px;
+    margin-left: 390px ;
+    margin-right: 390px;
+}
+
+#num{
+    padding: 24px;
 }
