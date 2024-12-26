@@ -5,7 +5,7 @@
 
 header{
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     background-image: "Rectangle 3.jpg";
 }
 
